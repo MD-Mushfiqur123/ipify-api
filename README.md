@@ -86,7 +86,7 @@ If you'd like to deploy your own version of ipify to Heroku, you can do so
 easily by clicking the button below. This will take you to Heroku and let you
 instantly provision your own copy of the ipify service.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/rdegges/ipify-api)
 
 
 ## Questions?
